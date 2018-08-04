@@ -39,3 +39,10 @@ let decodedMessage = decode(encodedMessage);
 console.log(message);
 console.log(encodedMessage);
 console.log(decodedMessage);
+// Tasks the google doc asked to do
+console.log(encode('dog'));
+console.log(encode('cat'));
+console.log(encode('My name is Groot'));
+console.log(decode('99:97:116'));
+console.log(decode('100:111:103'));
+console.log(decode('77:121:32:110:97:109:101:32:105:115:32:71:114:111:111:116'));
